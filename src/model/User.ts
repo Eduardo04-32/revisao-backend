@@ -10,4 +10,5 @@ Exemplo:
 */
 export class User{
     
+    
 }
